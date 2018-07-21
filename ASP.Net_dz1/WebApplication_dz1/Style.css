@@ -1,0 +1,82 @@
+﻿body {
+}
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: blue;
+}
+.linkPadding{
+    padding: 30px 0px;
+    display: block;
+}
+.formH2{
+    text-align: center;
+}
+.formReg {
+    width: 350px;
+    margin: 10% auto 0;
+}
+.formReg table{
+    width:100%;
+}
+.formReg input {
+   width: 99%;
+}
+.formReg tr {
+   height: 40px;
+}
+.formReg tr {
+   font-weight:600;
+}
+.formReg h2 {
+   text-align:center;
+}
+.TableUsers {
+        width: 500px;
+        margin: 40px auto;
+        border: 1px solid #000;
+        text-align: center;
+        border-collapse: collapse;
+    }
+.th {
+    font-weight: bold;
+    color: #fff;
+    background: #795548;
+}
+.TableUsers td {
+    padding: 5px;
+    border: 1px solid #000;
+}
+.ListBoxRole {
+    width:100%; 
+}
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    cursor: pointer;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.btn-success {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+    width: 100%;
+}
+.btn-cancel {
+    color: #fff;
+    background-color: darkred;
+    border-color: darkred;
+    width: 100%;
+}
